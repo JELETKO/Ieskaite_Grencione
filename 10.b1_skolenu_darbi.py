@@ -6,22 +6,23 @@ Tatjana Grencione
 
 3 Fedaks Alekss
 
-4 Gaile Aïona
+4 Gaile AÃ¯ona
 
 5 Gaile Anna
 
-6 Griğaèova Violeta
+6 GriÃ°aÃ¨ova Violeta
 
-7 Jakovïevs Aleksandrs
+7 JakovÃ¯evs Aleksandrs
 
-8 Jeroğèenkova Alîna
+8 JeroÃ°Ã¨enkova AlÃ®na
 
 9 Kopilovs Marks
 
-10 Kostenko Karîna
+10 Kostenko KarÃ®na
 
-11 Kuzòecovs Ivans
+11 KuzÃ²ecovs Ivans
 
-12 Ïetko Jevgçnijs
+12 Ãetko JevgÃ§nijs
+print(sin(radians(30)+fmod(13,2)))
 
 13 Skuridins Artis Daniels
